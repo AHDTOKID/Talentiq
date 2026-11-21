@@ -1,0 +1,20 @@
+TALENTIQ v2 - COMPLETE UPDATED SOURCE FILES
+
+README.md
+README_UPGRADE.md
+client/src/App.jsx
+client/src/components/CriteriaBreakdown.jsx
+client/src/components/Dossier.jsx
+client/src/components/ResumeInspector.jsx
+client/src/components/Synthesis.jsx
+client/src/styles.css
+client/vite.config.js
+server/.env.example
+server/src/index.js
+server/src/models/Candidate.js
+server/src/routes/candidates.js
+server/src/seed.js
+server/src/services/parser.js
+server/src/services/parser.test.js
+server/src/services/scoring.js
+server/src/services/scoring.test.js
